@@ -1,4 +1,4 @@
-Order ID,Customer ID,Specification ID,Reusable Packaging
-10001,customer number one,Spec1,true
-10002,Cust2,Spec2,true
-10003,Customer number 3,Spec number 3,true
+Order ID,Customer ID,Specification ID,Reusable Packaging,another field,another field2
+10001,customer number one,Spec1,true,bla,2
+10002,Cust2,Spec2,true,bla,3
+10003,Customer number 3,Spec number 3,true,bla,4
