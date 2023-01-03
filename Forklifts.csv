@@ -1,0 +1,10 @@
+Forklift ID,Brand,Type,Max speed km/h,Reach height mm,invalid column
+FL001,Toyota,Forklift,51,3000,2
+FL002,Toyota,Forklift,52,3000,3
+FL003,Toyota,Forklift,53,3000,4
+FL004,Toyota,Forklift,54,3000
+FL005,Toyota-a,Forklift-a,53-a,3000-a,x-a
+FL005,Toyota-b,Forklift-b,53-b,3000-b,x-b
+FL006,Jungheinrich,Tugger train, 36, 0, x
+FL007, Jungheinrich, Tugger train, 36, 0, x
+FL008,    Jungheinrich,    Tugger train, 36, 0, x
