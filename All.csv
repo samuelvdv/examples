@@ -1,0 +1,4 @@
+Id,Text,Flag,Only on choise,Multi choise
+1,hallo dit is de text,True,Only one,First
+3,nummertje 3,True,Only one,Second
+2,nummertje 2,False,Only one,First
