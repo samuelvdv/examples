@@ -2,3 +2,7 @@ Id,Text,Flag,Only on choise,Multi choise
 1,hallo dit is de text,True,Only one,First
 3,nummertje 3,True,Only one,Second
 2,nummertje 2,False,Only one,First
+4,"This is text with ""quotes""",False,"Only one","[""First""]" 
+5,"This is another text with ""quotes""",False,Only one, First
+6,  nummertje 6,False,Only one,First
+7,nummertje 7,False,Only one,First
