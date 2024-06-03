@@ -1,0 +1,7 @@
+Order number, Batch number, Part type number, Priority, Expected day to complete
+100001, 1, 7, High, 30/09/2024
+100002, 1, 8, High, 30/08/2024
+100003, 2, 3, High, 30/07/2024
+100004, 2, 7, High, 15/09/2024
+100005, 3, 7, High, 21/09/2024
+100006, 4, 8, High, 30/09/2024
